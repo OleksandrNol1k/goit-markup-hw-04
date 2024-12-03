@@ -80,6 +80,9 @@ h3 {
 .top-line {
     border-bottom: 1px solid rgb(231, 233, 252);
     padding: 24px 0;
+    box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08), 
+                0px 1px 1px 0px rgba(46, 47, 66, 0.16), 
+                0px 2px 1px 0px rgba(46, 47, 66, 0.08);
 }
 
 .navigation {
@@ -166,6 +169,8 @@ h3 {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    max-width: 1440px;
+    margin: 0 auto;
     padding: 188px 0;
 }
 
